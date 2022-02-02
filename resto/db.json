@@ -1,0 +1,18 @@
+{
+    "resturant":[
+        {"id":1 , "name":"Pratik0" , "email":"p1@gmail.com" , "address":"B11"},
+        {"id":2 , "name":"Pratik1" , "email":"p2@gmail.com" , "address":"B12"},
+        {"id":3 , "name":"Pratik2" , "email":"p3@gmail.com" , "address":"B13"},
+        {"id":4 , "name":"Pratik3" , "email":"p4@gmail.com" , "address":"B14"},
+        {"id":5 , "name":"Pratik4" , "email":"p5@gmail.com" , "address":"B15"}
+    ],
+    "image":[
+        {"image":"https://images.pexels.com/photos/545313/pexels-photo-545313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"},
+        {"image":"https://images.pexels.com/photos/209788/pexels-photo-209788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"},
+        {"image":"https://images.pexels.com/photos/2673471/pexels-photo-2673471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"},
+        {"image":"https://images.pexels.com/photos/316820/pexels-photo-316820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"},
+        {"image":"https://images.pexels.com/photos/745266/pexels-photo-745266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"},
+        {"image":"https://images.pexels.com/photos/3263416/pexels-photo-3263416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
+        {"image":"https://images.pexels.com/photos/33227/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"}
+    ]
+}
