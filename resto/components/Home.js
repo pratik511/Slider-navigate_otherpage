@@ -11,8 +11,8 @@ const Home = ({navigation}) => {
         <Text style={styles.headerText}>Resto Home</Text>
         <View style={styles.tapWrapper}>
             <Text onPress={() => navigation.navigate('List')} style={styles.tap}>Add</Text>
+            <Text onPress={() => navigation.navigate("Slider")} style={styles.tap}>Slider1</Text>
             <Text style={styles.tap}>List</Text>
-            <Text onPress={() => navigation.navigate("Slider")} style={styles.tap}>Slider</Text>
             <Text style={styles.tap}>Edit</Text>
             <Text style={styles.tapLogin}>Login</Text>
         </View>

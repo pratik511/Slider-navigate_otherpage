@@ -91,7 +91,7 @@ const Slider = () => {
                 </View>
             </View>
             {/* Flatelist  */}
-            <View>
+            <ScrollView>
                 <Text style={{alignSelf:"center",fontSize:50}}>Hello</Text>
                <FlatList
                     data={filterData}
@@ -100,7 +100,7 @@ const Slider = () => {
                     renderItem={ItemView}
                     numColumns={2}
                 />
-            </View>
+            </ScrollView>
         </ScrollView>
     );
 };
